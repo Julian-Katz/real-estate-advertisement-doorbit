@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "address": "Hauptstraße 12, 12345 Musterstadt",
+    "price": "450.000 €",
+    "squareMeters": "125 m²",
+    "numberOfBathrooms": 2,
+    "numberOfRooms": 4,
+    "energyEfficiencyClass": "C",
+    "description": "Gepflegte Doppelhaushälfte mit großem Garten und Garage. Ruhige Wohngegend, ideal für Familien.",
+    "locationDescription": "In ruhiger Lage im Stadtgebiet, gute Anbindung an öffentliche Verkehrsmittel und Einkaufsmöglichkeiten.",
+    "images": [
+      "image0.jpg",
+      "image1.jpg",
+      "image2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "address": "Birkenweg 7, 67890 Beispieldorf",
+    "price": "320.000 €",
+    "squareMeters": "110 m²",
+    "numberOfBathrooms": 1,
+    "numberOfRooms": 3,
+    "energyEfficiencyClass": "B",
+    "description": "Moderne Erdgeschosswohnung mit Balkon und Gemeinschaftsgarten. Hochwertige Ausstattung.",
+    "locationDescription": "Zentrale Lage in einem beliebten Wohngebiet, kurze Wege zu Schulen, Kindergärten und Geschäften.",
+    "images": [
+      "image3.jpg",
+      "image4.jpg",
+      "image5.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "address": "Lindenallee 22, 54321 Musterstadt",
+    "price": "580.000 €",
+    "squareMeters": "180 m²",
+    "numberOfBathrooms": 3,
+    "numberOfRooms": 6,
+    "energyEfficiencyClass": "D",
+    "description": "Großzügiges Einfamilienhaus mit Doppelgarage und Garten. Renovierungsbedürftig, aber viel Potenzial.",
+    "locationDescription": "In ruhiger Wohngegend gelegen, aber mit guter Anbindung an die Innenstadt.",
+    "images": [
+      "image6.jpg",
+      "image7.jpg",
+      "image8.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "address": "Rosenstraße 5a, 98765 Beispielort",
+    "price": "210.000 €",
+    "squareMeters": "65 m²",
+    "numberOfBathrooms": 1,
+    "numberOfRooms": 2,
+    "energyEfficiencyClass": "A+",
+    "description": "Energieeffiziente Neubauwohnung mit Fußbodenheizung und Balkon. Moderne Ausstattung.",
+    "locationDescription": "Zentrale Lage in einer neu erschlossenen Wohngegend, gute Infrastruktur in unmittelbarer Nähe.",
+    "images": [
+      "image9.jpg",
+      "image10.jpg",
+      "image11.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "address": "Kirchplatz 3, 24680 Musterdorf",
+    "price": "720.000 €",
+    "squareMeters": "250 m²",
+    "numberOfBathrooms": 4,
+    "numberOfRooms": 7,
+    "energyEfficiencyClass": "E",
+    "description": "Repräsentative Altbauvilla mit parkähnlichem Grundstück. Charmantes Ambiente, aber hoher Sanierungsbedarf.",
+    "locationDescription": "In idyllischer Lage inmitten eines malerischen Dorfes, ruhig und naturverbunden.",
+    "images": [
+      "image12.jpg",
+      "image13.jpg",
+      "image14.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "address": "Ahornweg 16, 87654 Beispielstadt",
+    "price": "370.000 €",
+    "squareMeters": "95 m²",
+    "numberOfBathrooms": 1,
+    "numberOfRooms": 3,
+    "energyEfficiencyClass": "C",
+    "description": "Gepflegte Eigentumswohnung in einer Wohnanlage mit Gemeinschaftspool und Grünflächen.",
+    "locationDescription": "In einer beliebten Wohngegend gelegen, gute Infrastruktur und Einkaufsmöglichkeiten in der Nähe.",
+    "images": [
+      "image15.jpg",
+      "image16.jpg",
+      "image17.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "address": "Marktplatz 8, 43210 Musterstadt",
+    "price": "1.200.000 €",
+    "squareMeters": "320 m²",
+    "numberOfBathrooms": 5,
+    "numberOfRooms": 9,
+    "energyEfficiencyClass": "D",
+    "description": "Historisches Stadthaus mit Gewölbekeller und Innenhof. Renovierungsbedürftig, aber einzigartiges Ambiente.",
+    "locationDescription": "Zentrale Innenstadtlage, umgeben von Geschäften, Cafés und kulturellen Einrichtungen.",
+    "images": [
+      "image18.jpg",
+      "image19.jpg",
+      "image20.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "address": "Tannenweg 25, 76543 Beispielort",
+    "price": "280.000 €",
+    "squareMeters": "90 m²",
+    "numberOfBathrooms": 1,
+    "numberOfRooms": 3,
+    "energyEfficiencyClass": "B",
+    "description": "Moderne Dachgeschosswohnung mit Balkon und Einbauküche. Frisch renoviert und bezugsfertig.",
+    "locationDescription": "In einer ruhigen Wohngegend am Stadtrand gelegen, aber mit guter Anbindung an die Innenstadt.",
+    "images": [
+      "image0.jpg",
+      "image1.jpg",
+      "image2.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "address": "Seeblick 7, 54321 Seeparadies",
+    "price": "850.000 €",
+    "squareMeters": "220 m²",
+    "numberOfBathrooms": 3,
+    "numberOfRooms": 5,
+    "energyEfficiencyClass": "C",
+    "description": "Exklusives Einfamilienhaus mit direktem Seezugang und Bootsanleger. Luxuriöse Ausstattung.",
+    "locationDescription": "In traumhafter Lage direkt am See, umgeben von Natur und Erholungsgebieten.",
+    "images": [
+      "image0.jpg",
+      "image1.jpg",
+      "image2.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "address": "Bahnhofstraße 12, 98765 Beispielstadt",
+    "price": "150.000 €",
+    "squareMeters": "50 m²",
+    "numberOfBathrooms": 1,
+    "numberOfRooms": 2,
+    "energyEfficiencyClass": "D",
+    "description": "Kompakte Stadtwohnung mit Balkon und Stellplatz. Ideal für Singles oder Paare.",
+    "locationDescription": "Zentrale Innenstadtlage, alles ist fußläufig erreichbar.",
+    "images": [
+      "image0.jpg",
+      "image1.jpg",
+      "image2.jpg"
+    ]
+  }
+]
