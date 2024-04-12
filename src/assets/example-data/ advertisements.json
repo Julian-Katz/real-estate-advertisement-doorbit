@@ -1,0 +1,103 @@
+[
+    {
+      "Adresse": "Hauptstraße 12, 12345 Musterstadt",
+      "Preis": "450.000 €",
+      "Quadratmeter": "125 m²",
+      "Anzahl Bäder": 2,
+      "Anzahl Zimmer": 4,
+      "Energieeffizienzklasse": "C",
+      "Beschreibung": "Gepflegte Doppelhaushälfte mit großem Garten und Garage. Ruhige Wohngegend, ideal für Familien.",
+      "Lagebeschreibung": "In ruhiger Lage im Stadtgebiet, gute Anbindung an öffentliche Verkehrsmittel und Einkaufsmöglichkeiten."
+    },
+    {
+      "Adresse": "Birkenweg 7, 67890 Beispieldorf",
+      "Preis": "320.000 €",
+      "Quadratmeter": "110 m²",
+      "Anzahl Bäder": 1,
+      "Anzahl Zimmer": 3,
+      "Energieeffizienzklasse": "B",
+      "Beschreibung": "Moderne Erdgeschosswohnung mit Balkon und Gemeinschaftsgarten. Hochwertige Ausstattung.",
+      "Lagebeschreibung": "Zentrale Lage in einem beliebten Wohngebiet, kurze Wege zu Schulen, Kindergärten und Geschäften."
+    },
+    {
+      "Adresse": "Lindenallee 22, 54321 Musterstadt",
+      "Preis": "580.000 €",
+      "Quadratmeter": "180 m²",
+      "Anzahl Bäder": 3,
+      "Anzahl Zimmer": 6,
+      "Energieeffizienzklasse": "D",
+      "Beschreibung": "Großzügiges Einfamilienhaus mit Doppelgarage und Garten. Renovierungsbedürftig, aber viel Potenzial.",
+      "Lagebeschreibung": "In ruhiger Wohngegend gelegen, aber mit guter Anbindung an die Innenstadt."
+    },
+    {
+      "Adresse": "Rosenstraße 5a, 98765 Beispielort",
+      "Preis": "210.000 €",
+      "Quadratmeter": "65 m²",
+      "Anzahl Bäder": 1,
+      "Anzahl Zimmer": 2,
+      "Energieeffizienzklasse": "A+",
+      "Beschreibung": "Energieeffiziente Neubauwohnung mit Fußbodenheizung und Balkon. Moderne Ausstattung.",
+      "Lagebeschreibung": "Zentrale Lage in einer neu erschlossenen Wohngegend, gute Infrastruktur in unmittelbarer Nähe."
+    },
+    {
+      "Adresse": "Kirchplatz 3, 24680 Musterdorf",
+      "Preis": "720.000 €",
+      "Quadratmeter": "250 m²",
+      "Anzahl Bäder": 4,
+      "Anzahl Zimmer": 7,
+      "Energieeffizienzklasse": "E",
+      "Beschreibung": "Repräsentative Altbauvilla mit parkähnlichem Grundstück. Charmantes Ambiente, aber hoher Sanierungsbedarf.",
+      "Lagebeschreibung": "In idyllischer Lage inmitten eines malerischen Dorfes, ruhig und naturverbunden."
+    },
+    {
+      "Adresse": "Ahornweg 16, 87654 Beispielstadt",
+      "Preis": "370.000 €",
+      "Quadratmeter": "95 m²",
+      "Anzahl Bäder": 1,
+      "Anzahl Zimmer": 3,
+      "Energieeffizienzklasse": "C",
+      "Beschreibung": "Gepflegte Eigentumswohnung in einer Wohnanlage mit Gemeinschaftspool und Grünflächen.",
+      "Lagebeschreibung": "In einer beliebten Wohngegend gelegen, gute Infrastruktur und Einkaufsmöglichkeiten in der Nähe."
+    },
+    {
+      "Adresse": "Marktplatz 8, 43210 Musterstadt",
+      "Preis": "1.200.000 €",
+      "Quadratmeter": "320 m²",
+      "Anzahl Bäder": 5,
+      "Anzahl Zimmer": 9,
+      "Energieeffizienzklasse": "D",
+      "Beschreibung": "Historisches Stadthaus mit Gewölbekeller und Innenhof. Renovierungsbedürftig, aber einzigartiges Ambiente.",
+      "Lagebeschreibung": "Zentrale Innenstadtlage, umgeben von Geschäften, Cafés und kulturellen Einrichtungen."
+    },
+    {
+      "Adresse": "Tannenweg 25, 76543 Beispielort",
+      "Preis": "280.000 €",
+      "Quadratmeter": "90 m²",
+      "Anzahl Bäder": 1,
+      "Anzahl Zimmer": 3,
+      "Energieeffizienzklasse": "B",
+      "Beschreibung": "Moderne Dachgeschosswohnung mit Balkon und Einbauküche. Frisch renoviert und bezugsfertig.",
+      "Lagebeschreibung": "In einer ruhigen Wohngegend am Stadtrand gelegen, aber mit guter Anbindung an die Innenstadt."
+    },
+    {
+      "Adresse": "Seeblick 7, 54321 Seeparadies",
+      "Preis": "850.000 €",
+      "Quadratmeter": "220 m²",
+      "Anzahl Bäder": 3,
+      "Anzahl Zimmer": 5,
+      "Energieeffizienzklasse": "C",
+      "Beschreibung": "Exklusives Einfamilienhaus mit direktem Seezugang und Bootsanleger. Luxuriöse Ausstattung.",
+      "Lagebeschreibung": "In traumhafter Lage direkt am See, umgeben von Natur und Erholungsgebieten."
+    },
+    {
+      "Adresse": "Bahnhofstraße 12, 98765 Beispielstadt",
+      "Preis": "150.000 €",
+      "Quadratmeter": "50 m²",
+      "Anzahl Bäder": 1,
+      "Anzahl Zimmer": 2,
+      "Energieeffizienzklasse": "D",
+      "Beschreibung": "Kompakte Stadtwohnung mit Balkon und Stellplatz. Ideal für Singles oder Paare.",
+      "Lagebeschreibung": "Zentrale Innenstadtlage, alles ist fußläufig erreichbar."
+    }
+  ]
+  
