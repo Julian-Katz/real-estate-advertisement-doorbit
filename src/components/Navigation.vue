@@ -8,7 +8,7 @@
         />
       </v-list>
     </v-navigation-drawer>
-    <v-app-bar class="d-lg-none" v-if="smAndUp">
+    <v-app-bar v-if="!drawerIsOpen">
       <template v-slot:prepend>
         <v-app-bar-nav-icon @click="toggleDrawer" />
       </template>
@@ -17,9 +17,6 @@
 
 <script lang="ts" setup>
 import { ref } from 'vue';
-import { useDisplay } from 'vuetify';
-
-const { smAndUp } = useDisplay();
 
 let drawerIsOpen = ref<boolean>();
 
