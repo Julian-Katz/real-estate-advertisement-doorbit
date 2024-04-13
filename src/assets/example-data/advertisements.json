@@ -12,7 +12,9 @@
     "images": [
       "image0.jpeg",
       "image1.jpeg",
-      "image2.jpeg"
+      "image2.jpeg",
+      "image3.jpeg",
+      "image4.jpeg"
     ]
   },
   {
@@ -28,7 +30,8 @@
     "images": [
       "image3.jpeg",
       "image4.jpeg",
-      "image5.jpeg"
+      "image5.jpeg",
+      "image6.jpeg"
     ]
   },
   {
@@ -43,8 +46,7 @@
     "locationDescription": "In ruhiger Wohngegend gelegen, aber mit guter Anbindung an die Innenstadt.",
     "images": [
       "image6.jpeg",
-      "image7.jpeg",
-      "image8.jpeg"
+      "image7.jpeg"
     ]
   },
   {
@@ -60,7 +62,10 @@
     "images": [
       "image9.jpeg",
       "image10.jpeg",
-      "image11.jpeg"
+      "image11.jpeg",
+      "image12.jpeg",
+      "image13.jpeg",
+      "image14.jpeg"
     ]
   },
   {
@@ -74,9 +79,7 @@
     "description": "Repräsentative Altbauvilla mit parkähnlichem Grundstück. Charmantes Ambiente, aber hoher Sanierungsbedarf.",
     "locationDescription": "In idyllischer Lage inmitten eines malerischen Dorfes, ruhig und naturverbunden.",
     "images": [
-      "image12.jpeg",
-      "image13.jpeg",
-      "image14.jpeg"
+      "image12.jpeg"
     ]
   },
   {
