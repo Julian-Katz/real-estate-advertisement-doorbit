@@ -9,6 +9,8 @@ declare module 'vue' {
   export interface GlobalComponents {
     AdvertisementsFilter: typeof import('./src/components/AdvertisementsFilter.vue')['default']
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
+    ImageViever: typeof import('./src/components/ImageViever.vue')['default']
+    ImageViewer: typeof import('./src/components/ImageViewer.vue')['default']
     MinMaxInput: typeof import('./src/components/MinMaxInput.vue')['default']
     Navigation: typeof import('./src/components/Navigation.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
