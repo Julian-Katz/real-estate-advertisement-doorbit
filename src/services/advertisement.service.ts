@@ -1,6 +1,6 @@
 import exampleData from "@/assets/example-data/advertisements.json";
 
-interface Advertisement {
+export interface Advertisement {
   id: number;
   address: string;
   price: number;
